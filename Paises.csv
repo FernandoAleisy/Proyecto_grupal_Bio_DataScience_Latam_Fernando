@@ -1,0 +1,199 @@
+Id_Pais,Nombre_Pais,Codigo_Pais
+1,Afganistán,AFG
+2,Albania,ALB
+3,Alemania,DEU
+4,Andorra,AND
+5,Angola,AGO
+6,Antigua y Barbuda,ATG
+7,Arabia Saudita,SAU
+8,Argelia,DZA
+9,Argentina,ARG
+10,Armenia,ARM
+11,Aruba,ABW
+12,Australia,AUS
+13,Austria,AUT
+14,Azerbaiyán,AZE
+15,Bahamas,BHS
+16,Bangladés,BGD
+17,Barbados,BRB
+18,Baréin,BHR
+19,Belice,BLZ
+20,Benin,BEN
+21,Benín,
+22,Bielorrusia,BLR
+23,Birmania,MMR
+24,Bolivia,BOL
+25,Bosnia y Herzegovina,BIH
+26,Botsuana,BWA
+27,Brasil,BRA
+28,Brunei Darussalam,BRN
+29,Bulgaria,BGR
+30,Burkina Faso,BFA
+31,Burundi,BDI
+32,Bután,BTN
+33,Bélgica,BEL
+34,Cabo Verde,CPV
+35,Camboya,KHM
+36,Camerún,CMR
+37,Canadá,CAN
+38,Chad,TCD
+39,Chile,CHL
+40,China,CHN
+41,Chipre,CYP
+42,Ciudad del Vaticano,
+43,Colombia,COL
+44,Comoras,COM
+45,Corea del Norte,PRK
+46,Corea del Sur,KOR
+47,Costa Rica,CRI
+48,Costa de Marfil,CIV
+49,Croacia,HRV
+50,Cuba,CUB
+51,Dinamarca,DNK
+52,Dominica,DMA
+53,Ecuador,ECU
+54,Egipto,EGY
+55,El Salvador,SLV
+56,Emiratos Árabes Unidos,ARE
+57,Eritrea,ERI
+58,Eslovenia,SVN
+59,España,ESP
+60,Estados Unidos,USA
+61,Estonia,EST
+62,Etiopía,ETH
+63,Federación de Rusia,RUS
+64,Filipinas,PHL
+65,Finlandia,FIN
+66,Fiyi,FJI
+67,Francia,FRA
+68,Gabón,GAB
+69,Gambia,GMB
+70,Georgia,GEO
+71,Ghana,GHA
+72,Granada,GRD
+73,Grecia,GRC
+74,Guatemala,GTM
+75,Guinea,GIN
+76,Guinea Ecuatorial,GNQ
+77,Guinea-Bisáu,GNB
+78,Guyana,GUY
+79,Haití,HTI
+80,Honduras,HND
+81,Hungría,HUN
+82,India,IND
+83,Indonesia,IDN
+84,Iraq,
+85,Irlanda,IRL
+86,Irán,IRN
+87,Islandia,ISL
+88,Islas Marshall,MHL
+89,Islas Salomón,SLB
+90,Israel,ISR
+91,Italia,ITA
+92,Jamaica,JAM
+93,Japón,JPN
+94,Jordania,JOR
+95,Kazajistán,KAZ
+96,Kenia,KEN
+97,Kirguistán,KGZ
+98,Kiribati,KIR
+99,Kosovo,XKX
+100,Kuwait,KWT
+101,Laos,LAO
+102,Lesoto,LSO
+103,Letonia,LVA
+104,Liberia,LBR
+105,Libia,LBY
+106,Liechtenstein,LIE
+107,Lituania,LTU
+108,Luxemburgo,LUX
+109,Líbano,LBN
+110,Macedonia del Norte,MKD
+111,Madagascar,MDG
+112,Malasia,MYS
+113,Malawi,MWI
+114,Maldivas,MDV
+115,Malta,MLT
+116,Malí,MLI
+117,Marruecos,MAR
+118,Mauricio,MUS
+119,Mauritania,MRT
+120,Micronesia,FSM
+121,Mongolia,MNG
+122,Montenegro,MNE
+123,Mozambique,MOZ
+124,México,MEX
+125,Mónaco,MCO
+126,Namibia,NAM
+127,Nauru,NRU
+128,Nepal,NPL
+129,Nicaragua,NIC
+130,Nigeria,NGA
+131,Noruega,NOR
+132,Nueva Zelanda,NZL
+133,Níger,NER
+134,Omán,OMN
+135,Pakistán,PAK
+136,Palaos,PLW
+137,Panamá,PAN
+138,Papúa Nueva Guinea,PNG
+139,Paraguay,PRY
+140,Países Bajos,NLD
+141,Perú,PER
+142,Polonia,POL
+143,Portugal,PRT
+144,Qatar,QAT
+145,Reino Unido,GBR
+146,República Centroafricana,CAF
+147,República Checa,CZE
+148,República Democrática del Congo,COD
+149,República Dominicana,DOM
+150,República Eslovaca,SVK
+151,República de Moldova,MDA
+152,República del Congo,COG
+153,Rumania,ROU
+154,Rwanda,RWA
+155,Samoa,WSM
+156,Samoa Americana,ASM
+157,San Cristóbal y Nieves,
+158,San Marino,SMR
+159,San Vicente y las Granadinas,VCT
+160,Santa Lucía,LCA
+161,Santo Tomé y Príncipe,STP
+162,Senegal,SEN
+163,Serbia,SRB
+164,Seychelles,SYC
+165,Sierra Leona,SLE
+166,Singapur,SGP
+167,Siria,SYR
+168,Somalia,SOM
+169,Sri Lanka,LKA
+170,Suazilandia,SWZ
+171,Sudáfrica,ZAF
+172,Sudán,SDN
+173,Sudán del Sur,SSD
+174,Suecia,SWE
+175,Suiza,CHE
+176,Surinam,SUR
+177,Tailandia,THA
+178,Tanzanía,TZA
+179,Tayikistán,TJK
+180,Timor Oriental,TLS
+181,Togo,TGO
+182,Tonga,TON
+183,Trinidad y Tobago,TTO
+184,Turkmenistán,TKM
+185,Turquía,TUR
+186,Tuvalu,TUV
+187,Túnez,TUN
+188,Ucrania,UKR
+189,Uganda,UGA
+190,Uruguay,URY
+191,Uzbekistán,UZB
+192,Vanuatu,VUT
+193,Venezuela,VEN
+194,Vietnam,VNM
+195,Yemen,YEM
+196,Yibuti,DJI
+197,Zambia,ZMB
+198,Zimbabue,ZWE
